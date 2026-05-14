@@ -44,6 +44,5 @@ Beyond the code, I am driven by **logic-based media** and the intersection of sy
 ---
 
 ### 📫 Connect with Me
-* **LinkedIn:** [Your Profile Link]
-* **Portfolio:** [Your Website Link]
+* **LinkedIn:** [(https://www.linkedin.com/in/nasser-algot/)]
 * **Current Location:** Tripoli, Libya 🇱🇾
