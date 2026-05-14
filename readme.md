@@ -38,10 +38,11 @@ Beyond the code, I am driven by **logic-based media** and the intersection of sy
 ---
 
 ### 📊 GitHub Stats
-![Nasser's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalqit&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nalqit&layout=compact&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nalqit)](https://git.io/streak-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nalqit&theme=tokyonight)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nalqit&theme=tokyonight) 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nalqit)](https://git.io/streak-stats)
 ---
 
 ### 📫 Connect with Me
